@@ -1,0 +1,94 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.0 Chrome/140.0.7339.249 Electron/38.7.2 Safari/537.36" version="29.3.0">
+  <diagram name="Page-1" id="Fs7_u3Qom0N05fgU1Bl_">
+    <mxGraphModel dx="2839" dy="1207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CBxg00ioRp3bYRxMDMU--1" parent="1" style="whiteSpace=wrap;strokeWidth=2" value="Организация и компетенции" vertex="1">
+          <mxGeometry height="60" width="120" x="-720" y="40.00000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="CBxg00ioRp3bYRxMDMU--3" parent="1" style="whiteSpace=wrap;strokeWidth=3" value="миграция архитектуры ИС Медикаменте" vertex="1">
+          <mxGeometry height="60" width="120" x="58.54166666666674" y="180.00000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="CBxg00ioRp3bYRxMDMU--4" edge="1" parent="1" style="edgeStyle=none;strokeWidth=4;rounded=0;strokeColor=light-dark(#9f9393, #959595);" target="CBxg00ioRp3bYRxMDMU--3" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="-790.5172413793103" y="209" as="sourcePoint" />
+            <mxPoint x="-381.45833333333326" y="160.00000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CBxg00ioRp3bYRxMDMU--5" edge="1" parent="1" source="CBxg00ioRp3bYRxMDMU--1" style="edgeStyle=none;exitX=0.5;exitY=1;strokeWidth=3;rounded=0;strokeColor=light-dark(#9f9393, #959595);" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="-660" y="120.00000000000006" as="sourcePoint" />
+            <mxPoint x="-600" y="210.00000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CBxg00ioRp3bYRxMDMU--64" parent="1" style="whiteSpace=wrap;strokeWidth=2" value="Интеграция и данные" vertex="1">
+          <mxGeometry height="60" width="120" x="-420.45833333333326" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CBxg00ioRp3bYRxMDMU--65" parent="1" style="whiteSpace=wrap;strokeWidth=2" value="Процессы разработки и эксплуатации" vertex="1">
+          <mxGeometry height="60" width="120" x="-544.4583333333333" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="CBxg00ioRp3bYRxMDMU--66" edge="1" parent="1" source="CBxg00ioRp3bYRxMDMU--64" style="edgeStyle=none;exitX=0.5;exitY=1;strokeWidth=3;rounded=0;strokeColor=light-dark(#9f9393, #959595);" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="-360.45833333333326" y="119.99999999999997" as="sourcePoint" />
+            <mxPoint x="-300.45833333333326" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CBxg00ioRp3bYRxMDMU--67" edge="1" parent="1" style="edgeStyle=none;exitX=0.5;exitY=0;strokeWidth=3;rounded=0;strokeColor=light-dark(#9f9393, #959595);" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="-484.45833333333314" y="330" as="sourcePoint" />
+            <mxPoint x="-424.45833333333326" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CBxg00ioRp3bYRxMDMU--125" parent="1" style="whiteSpace=wrap;strokeWidth=2" value="Инфраструктура" vertex="1">
+          <mxGeometry height="60" width="120" x="-145.62500000000017" y="41.52777777777757" as="geometry" />
+        </mxCell>
+        <mxCell id="CBxg00ioRp3bYRxMDMU--126" parent="1" style="whiteSpace=wrap;strokeWidth=2" value="Программное обеспечение" vertex="1">
+          <mxGeometry height="60" width="120" x="-269.62500000000017" y="331.5277777777776" as="geometry" />
+        </mxCell>
+        <mxCell id="CBxg00ioRp3bYRxMDMU--127" edge="1" parent="1" source="CBxg00ioRp3bYRxMDMU--125" style="edgeStyle=none;exitX=0.5;exitY=1;strokeWidth=3;rounded=0;fillColor=#f5f5f5;strokeColor=light-dark(#9f9393, #959595);" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="-85.62500000000011" y="121.52777777777757" as="sourcePoint" />
+            <mxPoint x="-25.625000000000114" y="211.5277777777776" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CBxg00ioRp3bYRxMDMU--128" edge="1" parent="1" style="edgeStyle=none;exitX=0.5;exitY=0;strokeWidth=3;rounded=0;strokeColor=light-dark(#9f9393, #959595);" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="-209.625" y="331.5277777777776" as="sourcePoint" />
+            <mxPoint x="-149.6250000000001" y="211.5277777777776" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CBxg00ioRp3bYRxMDMU--193" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=4;fontSize=10;labelBackgroundColor=default;" value="Недостаточная мощность и отказоустойчивость" vertex="1">
+          <mxGeometry height="30" width="250" x="-150" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CBxg00ioRp3bYRxMDMU--194" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=4;fontSize=10;labelBackgroundColor=default;" value="Некорректное управление ресурсами в кластере" vertex="1">
+          <mxGeometry height="30" width="250" x="-100" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CBxg00ioRp3bYRxMDMU--195" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=4;fontSize=10;labelBackgroundColor=default;" value="Проблемы синхронизации и качества данных" vertex="1">
+          <mxGeometry height="30" width="240" x="-449" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CBxg00ioRp3bYRxMDMU--196" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=4;fontSize=10;labelBackgroundColor=default;" value="Централизованный интеграционный слой и отсутствие контрактов" vertex="1">
+          <mxGeometry height="30" width="330" x="-436" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CBxg00ioRp3bYRxMDMU--197" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=4;fontSize=10;labelBackgroundColor=default;" value="Несоответствие командной структуры и уровня компетенций" vertex="1">
+          <mxGeometry height="30" width="310" x="-800" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CBxg00ioRp3bYRxMDMU--198" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=4;fontSize=10;labelBackgroundColor=default;" value="Отсутствие единой дорожной карты и подготовки эксплуатации" vertex="1">
+          <mxGeometry height="30" width="320" x="-785" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CBxg00ioRp3bYRxMDMU--199" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=4;fontSize=10;labelBackgroundColor=default;" value="Архитектурные анти-паттерны" vertex="1">
+          <mxGeometry height="30" width="170" x="-219" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="CBxg00ioRp3bYRxMDMU--200" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=4;fontSize=10;labelBackgroundColor=default;" value="Слабая наблюдаемость и неоптимизированный код" vertex="1">
+          <mxGeometry height="30" width="270" x="-274" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="CBxg00ioRp3bYRxMDMU--201" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=4;fontSize=10;labelBackgroundColor=default;" value="Негибкие процессы и отсутствие тестирования под нагрузкой" vertex="1">
+          <mxGeometry height="30" width="310" x="-598" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="CBxg00ioRp3bYRxMDMU--202" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=4;fontSize=10;labelBackgroundColor=default;" value="Недостаточная проработка стратегии миграции" vertex="1">
+          <mxGeometry height="30" width="250" x="-559" y="270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
